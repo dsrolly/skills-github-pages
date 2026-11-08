@@ -1,4 +1,7 @@
-   # Hi, I'm Rolly
+   ---
+   layout: home
+   title: "Hi, I'm Rolly"
+   ---
 
    I am an MCA student and Android developer. This is my first GitHub Pages site, built while learning GitHub.
 
